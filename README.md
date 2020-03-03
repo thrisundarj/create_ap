@@ -82,6 +82,8 @@ Using the persistent [systemd](https://wiki.archlinux.org/index.php/systemd#Basi
 ### Start on boot:
     systemctl enable create_ap
 
+## Sample Example Command
+    sudo create_ap wlp2s0 wlp2s0 hahahaha 123@123@123 --hidden
 
 ## License
 FreeBSD
